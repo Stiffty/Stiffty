@@ -1,7 +1,0 @@
-name: Example
-uses: lowlighter/metrics@latest
-with:
-  template: terminal
-  filename: Metric.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: header, metadata
