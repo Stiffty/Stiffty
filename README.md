@@ -20,11 +20,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stiffty&layout=compact&langs_count=10&title_color=00695C&text_color=37474F" alt="Most Used Languages" align="top">
 </a>
 
-  <tr>
-    <td colspan="2" align="center">
-      <details open><summary>Full year calendar</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
-      
-     
-  </tr>
-</table>
-<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.terminal.svg" alt=""></img>
+![GitHub metrics](./Metric.svg)
