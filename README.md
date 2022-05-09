@@ -21,6 +21,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stiffty&layout=compact&langs_count=10&title_color=00695C&text_color=37474F" alt="Most Used Languages" align="top">
 </a>
 
-![GitHub metrics](./github-metrics.svg)
+![GitHub metrics](./metrics.svg)
 
 
