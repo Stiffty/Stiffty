@@ -11,7 +11,7 @@
 </p>
 
 ---
-![GitHub metrics](./Metric.svg)
+![GitHub metrics](./github-metrics.svg)
 
 <a href="https://github.com/Stiffty">
   <img src="https://github-readme-stats.vercel.app/api?username=Stiffty&show_icons=true&hide=stars&title_color=00695C&text_color=37474F&icon_color=546E7A" alt="Stiffty's GitHub Stats" align="top">
