@@ -1,7 +1,7 @@
 ## Stiffty Profile
 
 
-<p align="center">
+<p align="center" Style="margin:auto;">
   <a href="https://github.com/Stiffty?tab=followers">
     <img src="https://img.shields.io/github/followers/Stiffty?style=social" alt="GitHub Followers">
   </a>
