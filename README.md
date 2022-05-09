@@ -1,4 +1,4 @@
-### Hi there 👋
+## Stiffty Profile
 
 
 <p align="center">
