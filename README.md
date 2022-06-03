@@ -1,5 +1,4 @@
 
-![GitHub metrics](./metrics.svg)
 
 <br/>
 
