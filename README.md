@@ -1,6 +1,14 @@
 
 
-<br/>
+
+
+
+<p align="center" Style="margin:auto;">
+  <img src="https://user-images.githubusercontent.com/43930246/205517307-e7b00032-64c5-4b2a-8363-2833705062fe.gif" alt="Stiffty's Gif" >
+
+ </p>
+ 
+ ---
 <p align="center" Style="margin:auto;">
   <img src="https://github-readme-stats.vercel.app/api?username=Stiffty&show_icons=true&hide=stars&title_color=00695C&text_color=37474F&icon_color=546E7A" alt="Stiffty's GitHub Stats" >
   </p>
